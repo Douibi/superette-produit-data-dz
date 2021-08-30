@@ -33,11 +33,11 @@ Desired formats:
 - PHP
 - XLSX aka. Microsoft Excel
 - Dart
-- 
+ 
 Desired language:
 
--Arabic
--English
+- Arabic
+- English
 
 Desired data:
 
