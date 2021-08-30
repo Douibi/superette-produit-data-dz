@@ -18,6 +18,7 @@ The list is available in different formats:
 - CSV
 - JSON 
 - SQL
+- xls
 
 
 
