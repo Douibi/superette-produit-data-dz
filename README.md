@@ -1,5 +1,5 @@
 # algeria Supermarkets product dataset 
-This repository contains the list of all the product that we find in algeria supermarkets,mini markets.  The data is up-to-date with help of other contributor.
+This repository contains the list of all  product that we find in algeria supermarkets,mini markets.  The data is up-to-date with help of other contributor.
 
 ## Languages
 
